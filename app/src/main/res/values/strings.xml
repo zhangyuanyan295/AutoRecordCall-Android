@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoAnswerCalls</string>
+    <string name="save_btn">Save Remote IP</string>
+    <string name="remote_ip_holder">Please target remote IP:</string>
+    <string name="default_remote_ip">192.168.188.105</string>
+    <string name="RECORD_VOICE_FILE">"RECORD_VOICE_FILE" Parameter:</string>
+</resources>
